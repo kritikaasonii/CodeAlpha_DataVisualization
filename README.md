@@ -74,7 +74,7 @@ Sales fluctuated throughout the year, with several strong and weak months rather
 ```text
 CodeAlpha_DataVisualization/
 │
-├── sales.csv
+├── sales_data.csv
 ├── main.py
 ├── README.md
 │
